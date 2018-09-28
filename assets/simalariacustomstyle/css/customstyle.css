@@ -1,0 +1,32 @@
+.skin-blue .main-header .navbar {
+	background-color : #a92c89;
+	background-image: none;
+	background-repeat: no-repeat;
+}
+
+.skin-blue .main-header .logo {
+	background-color : #8b3576;
+}
+
+.skin-blue .main-header .logo:hover {
+	background-color : #ad4392;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+	background-color : #ad4392;
+}
+
+.skin-blue .main-header li.user-header{
+	background-color : #a92c89;
+}
+
+.login-box-body, .register-box-body {
+	background : #8e3a74;
+	color: #f4f4f4;
+}
+
+
+.btn-primary-login{
+	background-color: #777777;
+    border-color: #777777;
+}
